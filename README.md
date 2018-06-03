@@ -14,4 +14,4 @@ O modelo foi elaborado com base no modelo do PGEA (outro programa de pós-gradua
 
 Agradecemos aos criados do modelo que usamos como base, com destaque para Gustavo Sandri e o prof. Geovany Araújo Borges.
 
-Também Agradecemos aos responsáveis pelo modelo do [IFB](https://github.com/IFBmodels/tcc) pela inspiração sobre como documentar e organizar o repositório no GitHub.
+Também agradecemos aos responsáveis pelo modelo do [IFB](https://github.com/IFBmodels/tcc) pela inspiração sobre como documentar e organizar o repositório no GitHub.
