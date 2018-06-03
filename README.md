@@ -9,3 +9,9 @@ O modelo foi elaborado com base no modelo do PGEA (outro programa de pós-gradua
 
 - [ ] Analisar e documentar as personalizações possíveis
 - [ ] Ligar com template no Overleaf e/ou Sharelatex
+
+## Agradecimentos
+
+Agradecemos aos criados do modelo que usamos como base, com destaque para Gustavo Sandri e o prof. Geovany Araújo Borges.
+
+Também Agradecemos os responsáveis pelo modelo do [IFB](https://github.com/IFBmodels/tcc), pela inspiração sobre como documentar e organizar o repositório.
